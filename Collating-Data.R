@@ -53,4 +53,4 @@ for (i in 1:19){
 all_bikes <- rbind.fill(`2016`,`2017`,`2018`,jan,feb, mar,apr,may,jun,jul,aug,sep,oct,nov,dec,jan20,feb20,mar20,apr20)
 
 # Download as CSV file
-write.csv(all_bikes, "all_bikes.csv")
+write.csv(all_bikes, "cycle-lane-counts.csv")
