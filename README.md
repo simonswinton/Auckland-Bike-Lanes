@@ -1,2 +1,2 @@
 # Auckland-Bike-Lanes
-Auckland-cycling-behaviour-during-lockdown
+A small exploration of Auckland cycling behaviour during lockdown
